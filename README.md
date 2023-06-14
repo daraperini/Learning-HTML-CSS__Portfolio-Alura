@@ -1,11 +1,11 @@
 # Portfólio - Alura
 Olá! Bem vindo ao meu primeiro projeto Front-end.
 
-##Ferramentas utilizadas:
+## Ferramentas utilizadas:
 
-*HTML
-*CSS
-*Flex Box
+* HTML
+* CSS
+* Flex Box
 
 ## Feito por:
 
