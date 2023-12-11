@@ -2,7 +2,7 @@
 
 Hello! Welcome to my first Front-end project. It consists in an portfolio created during the Alura's degree *From scratch: HTML and CSS for Web Projects*.
 
-To see the final result, click [here](external.ink?to=portfolio-alura-ecru-two.vercel.app/).
+To see the final result, click [here](https://portfolio-alura-ecru-two.vercel.app/).
 
 ## Used tools:
 
