@@ -29,5 +29,5 @@ Para acessar o resultado final da página, clique [aqui](https://portfolio-alura
 #
 
 ### Developed by / Feito por:
-### *Dara Lahm Perini*
+### Dara Lahm Perini
 ### Linkedin: https://www.linkedin.com/in/dara-lahm-perini/
