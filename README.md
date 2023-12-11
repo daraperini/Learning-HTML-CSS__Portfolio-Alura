@@ -12,7 +12,11 @@ To see the final result, click [here](https://portfolio-alura-ecru-two.vercel.ap
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
-###
+
+
+#
+
+
 
 # Portfólio - Alura
 
