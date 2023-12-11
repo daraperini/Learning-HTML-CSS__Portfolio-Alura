@@ -25,9 +25,3 @@ Para acessar o resultado final da página, clique [aqui](https://portfolio-alura
 * HTML
 * CSS
 * Flex Box
-
-#
-
-### Developed by / Feito por:
-### Dara Lahm Perini
-### [Linkedin](https://www.linkedin.com/in/dara-lahm-perini/)
