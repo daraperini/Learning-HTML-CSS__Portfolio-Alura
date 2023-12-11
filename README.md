@@ -8,7 +8,7 @@ To see the final result, click [here](https://portfolio-alura-ecru-two.vercel.ap
 
 * HTML
 * CSS
-* Flex Box
+* Flexbox
 
 *(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
 
@@ -24,4 +24,4 @@ Para acessar o resultado final da página, clique [aqui](https://portfolio-alura
 
 * HTML
 * CSS
-* Flex Box
+* Flexbox
